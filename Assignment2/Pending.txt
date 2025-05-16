@@ -1,0 +1,4 @@
+Ctrl + C Recheck. Print Stats.   WORKS !!!!!!
+Ctrl + B. can't see shell        PENDING
+Ctrl + F, related to Ctrl B      PENDING
+Ctrl + G perfect.                WORKS !!!!!!

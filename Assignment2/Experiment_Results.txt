@@ -1,0 +1,49 @@
+EXP : 1
+#define ALPHA 3
+#define BETA 4
+long IO_LIM = 500000000;
+long CPU_LIM = 500000000;
+IO Process PID 4
+CPU Process PID 5
+CPU-bound process finished.
+PID: 5
+TAT: 461
+WT: 231
+RT: 1
+#CS: 231
+$ IO-bound process finished.
+PID: 4
+TAT: 2330
+WT: 231
+RT: 1
+#CS: 2100
+$ Parent process exiting.
+PID: 3
+TAT: 2332
+WT: 2329
+RT: 0
+#CS: 13
+--------------------------------
+EXP : 2
+#define ALPHA 3
+#define BETA 40
+IO Process PID 4
+CPU Process PID 5
+CPU-bound process finished.
+PID: 5
+TAT: 455
+WT: 228
+RT: 1
+#CS: 228
+$ IO-bound process finished.
+PID: 4
+TAT: 2308
+WT: 228
+RT: 1
+#CS: 2081
+$ Parent process exiting.
+PID: 3
+TAT: 2310
+WT: 2308
+RT: 0
+#CS: 12
